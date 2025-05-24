@@ -25,7 +25,7 @@ multi_tool_agent/
 
 ```bash
 git clone https://github.com/yourusername/multi_tool_agent.git
-cd multi_tool_agent
+cd stock_analysis_agent
 ```
 
 ### 2. Install Python dependencies
